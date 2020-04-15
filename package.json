@@ -1,5 +1,5 @@
 {
-  "name": "json2excel",
+  "name": "json2excel-js",
   "version": "1.0.0",
   "description": "it helps export to excel, using column as Array or Object",
   "main": "index.vue",

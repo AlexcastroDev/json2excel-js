@@ -39,6 +39,10 @@ Well, solved my problem, hope it help u too.
 
 # How to Use
 
+# install the package
+
+npm i json2excel-js
+
 # import the package
 
 import downloadExcel from 'json2excel-js';
