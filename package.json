@@ -1,13 +1,10 @@
 {
   "name": "json2excel-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "it helps export to excel, using column as Array or Object",
   "main": "index.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "downloadjs": "^1.4.7"
   },
   "keywords": [
     "vue",
