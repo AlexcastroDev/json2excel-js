@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/json2excel-js
 report_id: 690085a44f52bca4acd96691474b060e
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:18:36+00:00'
+timestamp: '2024-01-05T08:11:33+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: master
@@ -16,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/json2excel-js
   detection_source: Repo Metadata
